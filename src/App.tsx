@@ -7,8 +7,9 @@ import ProductForms from './product/ProductForms';
 function App() {
   return (
     <div className="App">
-      <ProductList />
-      <ProductForms />
+      <h1>Hellow world</h1>
+      {/* <ProductList />
+      <ProductForms /> */}
     </div>
   );
 }
